@@ -12,7 +12,6 @@ import (
 //cd golang.org
 //cd x
 //git clone https://github.com/golang/crypto.git
-
 func main() {
 
 	var ripemdEcrypt = Ripemd160.Ripemd160Ecrypt([]byte("hello world"))
