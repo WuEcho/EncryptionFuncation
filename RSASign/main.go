@@ -3,9 +3,9 @@ package main
 import (
 	"crypto/rsa"
 	"crypto/md5"
-	"fmt"
 	"crypto/rand"
 	"crypto"
+	"fmt"
 )
 
 func main() {
