@@ -13,6 +13,6 @@ func main() {
 
 	var encryptCode1 = MD5.MD5EncryptTypeTwo([]byte("hello world"))
 
-    fmt.Println(encryptCode1)
+	fmt.Println(encryptCode1)
 
 }
