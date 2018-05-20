@@ -1,10 +1,11 @@
 package main
 
 import (
-	"fmt"
 	"EncryptDemo/DESEcrypt/DES_CBC"
 	"encoding/base64"
+	"fmt"
 )
+
 func main() {
 
 	fmt.Println("Hello World!")
